@@ -5,7 +5,7 @@
  * @license  MIT
  */
 
-/*! MIT License. Copyright 2015-2018 Richard Moore <me@ricmoo.com>. See LICENSE.txt. */
+/*! https://mths.be/punycode v1.4.1 by @mathias */
 
 /**
  * [js-sha3]{@link https://github.com/emn178/js-sha3}
